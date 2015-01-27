@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Blog Template for GitHub Pages</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Blog Template for GitHub Pages</description>
+    <title>Posts on Hugo Blog Template for GitHub Pages</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Hugo Blog Template for GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     
     
     
     
     <lastBuildDate>Tue, 27 Jan 2015 09:49:48 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
