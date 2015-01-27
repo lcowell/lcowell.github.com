@@ -1,0 +1,7 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+baseurl: "http://lcowell.github.io/"
+title: "Hugo Blog Template for GitHub Pages"
+canonifyurls: true
